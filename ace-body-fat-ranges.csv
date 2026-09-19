@@ -1,0 +1,11 @@
+﻿category,sex,min_pct,max_pct,source,note
+essential,male,2,5,ACE,"Very low body fat needed for basic physiology; not a normal lifestyle goal."
+athletes,male,6,13,ACE,"Lean, performance-focused ranges often seen in trained athletes."
+fitness,male,14,17,ACE,"Lean and sustainable for many active people, depending on sport and lifestyle."
+average,male,18,24,ACE,"Common adult ranges; health context depends on waist, labs, activity, and history."
+higher,male,25,,ACE,"May deserve closer attention when paired with rising waist size or health markers."
+essential,female,10,13,ACE,"Very low body fat needed for basic physiology; not a normal lifestyle goal."
+athletes,female,14,20,ACE,"Lean, performance-focused ranges often seen in trained athletes."
+fitness,female,21,24,ACE,"Lean and sustainable for many active people, depending on sport and lifestyle."
+average,female,25,31,ACE,"Common adult ranges; health context depends on waist, labs, activity, and history."
+higher,female,32,,ACE,"May deserve closer attention when paired with rising waist size or health markers."
